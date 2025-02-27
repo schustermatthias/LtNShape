@@ -1,4 +1,4 @@
-This is the code for obtaining the results of the paper *Interface Identification Constrained by Local-to-Nonlocal Coupling * by M. Schuster and V. Schulz that can be found on https://arxiv.org/abs/2402.12871.
+This is the code for obtaining the results of the paper *Interface Identification Constrained by Local-to-Nonlocal Coupling* by M. Schuster and V. Schulz that can be found on https://arxiv.org/abs/2402.12871.
 
 Build and Install on Ubuntu
 ===========================
