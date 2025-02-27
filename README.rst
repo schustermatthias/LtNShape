@@ -30,18 +30,19 @@ Finally, nlfem can be installed by
   (venv) python3 setup.py build --force install
 
 | See https://gitlab.uni-trier.de/pde-opt/nonlocal-models/nlfem for more information.
-| Further, Gmsh needs to be installed to run the examples where the mesh is remeshed. On Ubuntu Gmsh can be installed via
+Further, Gmsh needs to be installed to run the examples where the mesh is remeshed. On Ubuntu Gmsh can be installed via
 ::
-   sudo apt install gmsh
+  sudo apt install gmsh
 
 More information on Gmsh can be found on https://gmsh.info.
+
 Running the Examples from the Paper
 ===================================
 To run one of the examples of the paper or the PhD thesis, choose in line 8 of main.py the associated configuration file, i.e., "configuration_ex1", "configuration_ex2", "configuration_ex3" or "configuration_ex4".  
 
 Raw Data
 ========
-The data of the experiments in the paper can be found in the folder "LtNShape/results".
+The data of the experiments in the paper and in the thesis can be found in the folder "LtNShape/results".
 
 License
 =======
